@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436150347639",
+    "project_id": "gopalan-enterprises",
+    "storage_bucket": "gopalan-enterprises.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436150347639:android:81e5dd3903efdc3d7c2372",
+        "android_client_info": {
+          "package_name": "com.mobiquest.gopalan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436150347639-34das020os7o7rp312b53e7isu66t0s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPxniKVZ6k_YENxFEjjyX8ixBT1zMHiZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436150347639-34das020os7o7rp312b53e7isu66t0s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
